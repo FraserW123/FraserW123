@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my github page! Shown below are some links to projects I have worked on 👋
+
+https://github.com/sfu-cmpt340/project_13 
+
+https://github.sfu.ca/jkk23/FraudDetection
+
+https://github.com/Preacho/Hackathon-Feb-18th-2023
 
 <!--
 **FraserW123/FraserW123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
