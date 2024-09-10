@@ -1,12 +1,12 @@
 ### Welcome to my github page! Shown below are some links to projects I have worked on 👋
 
-https://github.com/sfu-cmpt340/project_13 
+[Medical Data and Imaging Analysis Project](https://github.com/sfu-cmpt340/project_13) 
 
-https://github.sfu.ca/jkk23/FraudDetection
+[Insurance Fraud Detector](https://github.sfu.ca/jkk23/FraudDetection)
 
-https://github.com/Preacho/Hackathon-Feb-18th-2023
+[Mountain Madness Hackathon 2023](https://github.com/Preacho/Hackathon-Feb-18th-2023)
 
-https://github.com/FraserW123/CoopAchievement
+[Board Game Score Tracker](https://github.com/FraserW123/CoopAchievement)
 
 <!--
 **FraserW123/FraserW123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
