@@ -1,7 +1,10 @@
 ### Welcome to my github page! Shown below are some links to projects I have worked on 👋
+
+[Airline Flight Delay Classification Project](https://github.com/FraserW123/airline_project)
+
 [Hockey Analytics and Stats Tracker](https://github.com/FraserW123/Hockey-Team-Player-Stats)
 
-[Medical Data and Imaging Analysis Project](https://github.com/sfu-cmpt340/project_13) 
+Medical Data and Imaging Analysis Project
 
 [Insurance Fraud Detector](https://github.sfu.ca/jkk23/FraudDetection)
 
