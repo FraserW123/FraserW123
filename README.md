@@ -1,5 +1,7 @@
 ### Welcome to my github page! Shown below are some links to projects I have worked on 👋
 
+[Human-Robot Interactions through Interactive Stories](https://github.com/FraserW123/Human-Robot-Interactions-through-Interactive-Stories)
+
 [Airline Flight Delay Classification Project](https://github.com/FraserW123/airline_project)
 
 [Hockey Analytics and Stats Tracker](https://github.com/FraserW123/Hockey-Team-Player-Stats)
